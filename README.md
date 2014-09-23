@@ -1,7 +1,9 @@
 Myo Lock
 ===
 
-[Demo Video](https://www.youtube.com/watch?v=nJhLZ8hf8fo)
+<a href="www.youtube.com/embed/nJhLZ8hf8fo?rel=0
+" target="_blank"><img src="http://img.youtube.com/vi/nJhLZ8hf8fo?rel=0/0.jpg" 
+alt="MYO" width="240" height="180" border="10" /></a>
 
 #Combination Lock
 
@@ -26,11 +28,9 @@ After the user correctly enters the current passcode, the lock spins open and th
 
 
 Team Members:
-Jackson Prange
 
-Zach Waterfield
-
-Donald Ngai
-
-Adam Seeto
+- Zach Waterfield
+- Jackson Prange
+- Donald Ngai
+- Adam Seeto
 
