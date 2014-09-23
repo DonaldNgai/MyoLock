@@ -3,6 +3,7 @@ Myo Lock
 
 <a href="http://www.youtube.com/embed/nJhLZ8hf8fo?rel=0" target="_blank"><img src="http://img.youtube.com/vi/nJhLZ8hf8fo/0.jpg" 
 alt="MYO" width="240" height="180" border="10" /></a>
+Myo Lock Youtube Video
 
 #Combination Lock
 
